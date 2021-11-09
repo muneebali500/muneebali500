@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **HTML, CSS, and JavaScript**
 
-- 📫 How to reach me **[My Portfolio Website](https://muneebalimemon.com/) OR [LinkedIn](https://www.linkedin.com/in/muneeb-ali-56507121a/)**
+- 📫 How to reach me @ **[My Portfolio Website](https://muneebalimemon.com/) OR [LinkedIn](https://www.linkedin.com/in/muneeb-ali-56507121a/)**
 
-- 📄 Know about my experiences [Portfolio Website](https://muneebalimemon.com/)
+- 📄 Know about my experiences @ [Portfolio Website](https://muneebalimemon.com/)
 
 - ⚡ Fun fact **I go to sleep @ 10:30pm**
 
