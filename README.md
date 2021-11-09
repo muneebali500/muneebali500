@@ -6,9 +6,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneebali500" alt="muneebali500" /></a> </p>
  -->
 - 🔭 I’m currently working on **Chat Application using Nodejs and Reactjs**
-
 - 🌱 I’m currently learning **Vue and TypeScript**
-
 - 👯 I’m looking to collaborate on **any Frontend Project**
 
 - 🤝 I’m looking for help with **my bitly-clone project**
