@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences @ [Portfolio Website](https://muneebalimemon.com/)
 
-- ⚡ Fun fact **I go to sleep @ 10:30pm**
+- ⚡ Fun fact **I don't use facebook and twitter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
