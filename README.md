@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneebali500&label=Profile%20views&color=0e75b6&style=flat" alt="muneebali500" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneebali500" alt="muneebali500" /></a> </p>
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneebali500" alt="muneebali500" /></a> </p>
+ -->
 - 🔭 I’m currently working on **Chat Application using Nodejs and Reactjs**
 
 - 🌱 I’m currently learning **Vue and TypeScript**
