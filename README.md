@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences @ [Portfolio Website](https://muneebalimemon.com/)
 
-- ⚡ Fun fact **I don't use facebook and twitter**
+- ⚡ Fun fact **I don't use facebook and instagram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
