@@ -9,15 +9,10 @@
 - 🌱 I’m currently learning **Vue and TypeScript**
 - 👯 I’m looking to collaborate on **any Frontend Project**
 <!-- - 🤝 I’m looking for help with **my bitly-clone project** -->
-
 - 👨‍💻 All of my projects are available at [https://github.com/muneebali500?tab=repositories](https://github.com/muneebali500?tab=repositories)
-
 - 💬 Ask me about **HTML, CSS, and JavaScript**
-
 - 📫 How to reach me @ **[My Portfolio Website](https://muneebalimemon.com/) OR [LinkedIn](https://www.linkedin.com/in/muneeb-ali-56507121a/)**
-
 - 📄 Know about my experiences @ [Portfolio Website](https://muneebalimemon.com/)
-
 - ⚡ Fun fact **I don't use facebook and instagram**
 
 <h3 align="left">Connect with me:</h3>
