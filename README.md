@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Chat Application using Nodejs and Reactjs**
 - 🌱 I’m currently learning **Vue and TypeScript**
 - 👯 I’m looking to collaborate on **any Frontend Project**
-- 🤝 I’m looking for help with **my bitly-clone project**
+<!-- - 🤝 I’m looking for help with **my bitly-clone project** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/muneebali500?tab=repositories](https://github.com/muneebali500?tab=repositories)
 
