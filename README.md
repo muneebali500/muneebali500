@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneebali500" alt="muneebali500" /></a> </p>
  -->
-- 🔭 I’m currently working on **Chat Application using Nodejs and Reactjs**
+- 🔭 I’m currently working on **Agency Portfolio using NextJS**
 - 🌱 I’m currently learning **GraphQL**
 - 👯 I’m looking to collaborate on **any Frontend Project**
 - 👨‍💻 All of my projects are available at [https://github.com/muneebali500?tab=repositories](https://github.com/muneebali500?tab=repositories)
